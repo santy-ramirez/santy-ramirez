@@ -3,6 +3,10 @@
 <a  align="center" href="https://www.linkedin.com/in/santiago-ramirez-b736501ab/">
   <img alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a  align="center" href="https://www.twitter.com/santhy_Ramirez">
+  <img alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
 
 
 <!--* GitHub stats:  
