@@ -3,7 +3,7 @@
 
 <div align="center">
  
-I am a web developer, inclined more towards the frontend, I am currently working on building my portfolio, also looking at technologies such as react and the chakra library. Below I also leave the stack of technologies that I manage.
+soy desarrollador web, inclinado hacia el desarrollo fron-end, actulmente estoy aprendiendo Spring y blibliotecas de react como chakra iu y formik.
   <h3> Podes encontarme tambien en:</h3>
 <a  align="center" href="https://www.linkedin.com/in/santiago-ramirez-b736501ab/">
   <img alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -11,18 +11,19 @@ I am a web developer, inclined more towards the frontend, I am currently working
 <a  align="center" href="https://www.twitter.com/santhy_Ramirez">
   <img alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
   </div>
 
 
 
 ## Tech Stack
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=326fa8)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-boostrap-blue?logo=bootstrap&color=6384bc&logoColor=black&logoWidth=20&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-blue?logo=react&color=6384bc&logoWidth=20&style=for-the-badge)
+![SASS](https://img.shields.io/badge/-SASS-blue?logo=sass&color=6384bc&logoWidth=20&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=MYSQL&color=6384bc&logoColor=black&logoWidth=20&style=for-the-badge)
+![Git](https://img.shields.io/badge/-GIT-blue?logo=git&color=6384bc&logoWidth=20&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-Github-blue?logo=github&color=6384bc&logoWidth=20&style=for-the-badge)
+
 
 
 <!--* GitHub stats:  
