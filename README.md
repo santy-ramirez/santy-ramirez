@@ -50,7 +50,7 @@ soy desarrollador web, inclinado hacia el desarrollo fron-end, actulmente estoy 
 <hr/>
 <img src="https://visitcount.itsvg.in/api?id=santy-ramirez&icon=2&color=1)](https://visitcount.itsvg.in" width="512px"/>
 
-<a src="https://github.com/santy-ramirez">hecho por: @santy-ramirez</a>
+<a href="https://github.com/santy-ramirez">hecho por: @santy-ramirez</a>
 
 </div>
 
