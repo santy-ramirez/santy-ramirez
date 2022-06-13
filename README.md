@@ -24,7 +24,8 @@ soy desarrollador web, inclinado hacia el desarrollo fron-end, actulmente estoy 
 ![Git](https://img.shields.io/badge/-GIT-blue?logo=git&color=6384bc&logoWidth=20&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-Github-blue?logo=github&color=6384bc&logoWidth=20&style=for-the-badge)
 
-
+---
+[mas información y logros en github](https://readme.santidev.com.ar/)
 
 <!--* Mas información de mi perfil de Github:  
 
