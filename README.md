@@ -31,6 +31,6 @@ soy desarrollador web, inclinado hacia el desarrollo fron-end, actulmente estoy 
 
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats" style= "color:black;width:1000px;background:white">
   <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=santy-ramirez&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>  -->
+</a>  
 
  
