@@ -29,12 +29,9 @@ soy desarrollador web, inclinado hacia el desarrollo fron-end, actulmente estoy 
 <!--* Mas información de mi perfil de Github:  
 
 
-<div align="center"  >
-
-
 <div align="center" border="solid 1px white">
 
-# 📊GitHub Stats :
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santy-ramirez&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="512px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=santy-ramirez&theme=default&hide_border=false" width="512px"/>
@@ -46,13 +43,13 @@ soy desarrollador web, inclinado hacia el desarrollo fron-end, actulmente estoy 
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="512px"/>
 
-### 😂Random Dev Meme
+
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <hr/>
+<img src="https://visitcount.itsvg.in/api?id=santy-ramirez&icon=2&color=1)](https://visitcount.itsvg.in" width="512px"/>
 
-[![](https://visitcount.itsvg.in/api?id=santy-ramirez&icon=2&color=1)](https://visitcount.itsvg.in)
-
+<a src="https://github.com/santy-ramirez">hecho por: @santy-ramirez</a>
 
 </div>
 
