@@ -25,10 +25,14 @@ soy desarrollador web, inclinado hacia el desarrollo fron-end, actulmente estoy 
 ![GitHub](https://img.shields.io/badge/-Github-blue?logo=github&color=6384bc&logoWidth=20&style=for-the-badge)
 
 ---
-[mas información y logros en github](https://readme.santidev.com.ar/)
+
+<a class="link" href="https://readme.santidev.com.ar/" >mas información y logros en github</a>
+
 
 <!--* Mas información de mi perfil de Github:  
-
+.link{
+display:none;
+}
 
 <div align="center" border="solid 1px white">
 
