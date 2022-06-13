@@ -31,27 +31,29 @@ soy desarrollador web, inclinado hacia el desarrollo fron-end, actulmente estoy 
 
 <div align="center"  >
 
-📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=santy-ramirez&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=santy-ramirez&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=santy-ramirez&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center" border="solid 1px white">
 
-🏆GitHub Trophies
+# 📊GitHub Stats :
 
-![](https://github-profile-trophy.vercel.app/?username=santy-ramirez&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santy-ramirez&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="512px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=santy-ramirez&theme=default&hide_border=false" width="512px"/>
 
- ✍️Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<img src="https://github-readme-stats.vercel.app/api?username=santy-ramirez&theme=default&hide_border=false&include_all_commits=true&count_private=true" width="512px"/>
 
- 😂Random Dev Meme
+<img src="https://github-profile-trophy.vercel.app/?username=santy-ramirez&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="512px"/>
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="512px"/>
+
+### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <hr/>
+
 [![](https://visitcount.itsvg.in/api?id=santy-ramirez&icon=2&color=1)](https://visitcount.itsvg.in)
 
-</div> 
+
+</div>
 
  
