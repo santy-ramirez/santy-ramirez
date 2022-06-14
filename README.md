@@ -30,9 +30,12 @@ soy desarrollador web, inclinado hacia el desarrollo fron-end, actulmente estoy 
 
 
 <!--* Mas información de mi perfil de Github:  
+<style>
 .link{
 display:none;
 }
+</style>
+
 
 <div align="center" border="solid 1px white">
 
