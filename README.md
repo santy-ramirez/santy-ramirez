@@ -3,7 +3,7 @@
 
 <div align="center">
  
-soy desarrollador web, inclinado hacia el desarrollo fron-end, actulmente estoy aprendiendo Spring y blibliotecas de react como chakra ui y formik.
+soy desarrollador web, inclinado hacia el desarrollo fron-end, actulmente estoy aprendiendo Spring y blibliotecas de react como chakra ui y react form hooks.
   <h3> Podes encontarme tambien en:</h3>
 <a  align="center" href="https://www.linkedin.com/in/santiago-ramirez-b736501ab/">
   <img alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
