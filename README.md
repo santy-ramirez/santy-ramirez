@@ -3,7 +3,7 @@
 
 <div align="center">
  
-soy desarrollador web, inclinado hacia el desarrollo fron-end, actulmente estoy aprendiendo Spring con java y blibliotecas de react como chakra ui y react form hooks.
+soy desarrollador web, inclinado hacia el desarrollo backend, actulmente estoy aprendiendo patrones de diseños  y blibliotecas de react como chakra ui y react form hooks.
   <h3> Podes encontarme tambien en:</h3>
 <a  align="center" href="https://www.linkedin.com/in/santiago-ramirez-b736501ab/">
   <img alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -17,6 +17,9 @@ soy desarrollador web, inclinado hacia el desarrollo fron-end, actulmente estoy 
 
 
 ## Tech Stack
+
+![Java](https://img.shields.io/badge/-JAVA-blue?logo=JAVA&color=6384bc&logoWidth=20&style=for-the-badge)
+![Spring](https://img.shields.io/badge/-Spring-blue?logo=spring&color=6384bc&logoWidth=20&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-blue?logo=bootstrap&color=6384bc&logoColor=black&logoWidth=20&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-blue?logo=react&color=6384bc&logoWidth=20&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/-SASS-blue?logo=sass&color=6384bc&logoWidth=20&style=for-the-badge)
