@@ -6,10 +6,10 @@
 soy desarrollador web, orientado hacia el desarrollo backend, actulmente estoy aprendiendo patrones de diseños  y blibliotecas de react como chakra ui y react form hooks.
   <h3> Podes encontarme tambien en:</h3>
 <a  align="center" href="https://www.linkedin.com/in/santiago-ramirez-b736501ab/">
-  <img alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <a  align="center" href="https://www.twitter.com/santy__dev">
-  <img alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="LinkedIN" width="22px" src="https://cdn.simpleicons.org/twitter" />
 </a>
 
   </div>
